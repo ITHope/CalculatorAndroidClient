@@ -1,0 +1,4 @@
+CalcAndroidBtns.MainActivity, CalcAndroidBtns;md57c2604b761aafb27b70b7a1b25b15833.MainActivity
+CalcAndroidBtns.MainActivity, CalcAndroidBtns, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57c2604b761aafb27b70b7a1b25b15833.MainActivity
+CalcAndroidBtns.MainActivity;md57c2604b761aafb27b70b7a1b25b15833.MainActivity
+calcandroidbtns.MainActivity;md57c2604b761aafb27b70b7a1b25b15833.MainActivity

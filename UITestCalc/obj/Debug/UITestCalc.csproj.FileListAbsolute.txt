@@ -1,0 +1,14 @@
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\UITestCalc.dll
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\UITestCalc.pdb
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\CalcAndroidBtns.dll
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\nunit.framework.dll
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\Xamarin.UITest.dll
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\CalcAndroidBtns.pdb
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\nunit.framework.xml
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\Xamarin.UITest.xml
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\obj\Debug\UITestCalc.csprojResolveAssemblyReference.cache
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\obj\Debug\UITestCalc.csproj.CoreCompileInputs.cache
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\obj\Debug\UITestCalc.dll
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\obj\Debug\UITestCalc.pdb
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\CalculatorAndroid.dll
+D:\CSharpDev\2017.09.04\Calculator\CalculatorAndroid\UITestCalc\bin\Debug\CalculatorAndroid.pdb

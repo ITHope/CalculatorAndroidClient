@@ -1,0 +1,4 @@
+CalculatorAndroid.MainActivity, CalculatorAndroid;md51a14d66f84111570ff34aa1019ab977b.MainActivity
+CalculatorAndroid.MainActivity, CalculatorAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51a14d66f84111570ff34aa1019ab977b.MainActivity
+CalculatorAndroid.MainActivity;md51a14d66f84111570ff34aa1019ab977b.MainActivity
+calculatorandroid.MainActivity;md51a14d66f84111570ff34aa1019ab977b.MainActivity
